@@ -1,11 +1,11 @@
 # Site settings
 author: DJ Taylor
-title: 
+title: Adventures in Coding
 header-img: img/home-bg.png
 email: dtaylor88@gmail.com
 copyright_name: DJ Taylor
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey as a budding software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  djtaylor8
